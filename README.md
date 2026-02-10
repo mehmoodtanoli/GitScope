@@ -17,7 +17,7 @@ GitScope is a modern GitHub profile analyzer that lets you search users, explore
 - 📊 Top languages chart
 - 📁 Repository list with latest activity
 - ⚡ Local caching to reduce API calls
-- 🌓 Light/Dark/Auto theme toggle
+- 🌓 Light/Dark/Auto theme toggle 
 
 ## Tech Stack
 
